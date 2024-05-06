@@ -1,0 +1,10 @@
+1. Swift
+2. Programación Orientada a Objetos
+3. Es una estructura de control que permite repetir un bloque de código un número determinado de veces.
+4. Es un mecanismo de la programación orientada a objetos que permite crear una nueva clase a partir de una existente.
+5. Es un lenguaje de consulta estructurado utilizado para manipular y consultar datos en bases de datos relacionales.
+6. Es una estructura de datos que puede almacenar un conjunto fijo de elementos del mismo tipo.
+7. Es una confirmación de cambios en un repositorio de Git.
+8. Es un proceso en el que una función se llama a sí misma como una subrutina.
+9. Es una estructura de software predefinida que sirve como punto de partida para el desarrollo de aplicaciones.
+10. Entorno de Desarrollo Integrado, es un software que proporciona servicios integrales para facilitar al desarrollador el desarrollo de software.
