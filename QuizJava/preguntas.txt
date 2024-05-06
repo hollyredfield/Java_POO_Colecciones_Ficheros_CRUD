@@ -1,0 +1,10 @@
+1. ¿Qué lenguaje de programación se utiliza para desarrollar aplicaciones para iOS?
+2. ¿Qué significa OOP en el contexto de la programación?
+3. ¿Qué es un bucle for en programación?
+4. ¿Qué es la herencia en la programación orientada a objetos?
+5. ¿Qué es SQL?
+6. ¿Qué es un array en programación?
+7. ¿Qué es un commit en Git?
+8. ¿Qué es la recursividad en programación?
+9. ¿Qué es un framework en desarrollo de software?
+10. ¿Qué es un IDE en el contexto de la programación?
