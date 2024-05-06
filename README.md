@@ -2,7 +2,7 @@
 🚀 Java_POO_Colecciones_Ficheros_CRUD 📚
 ¡Bienvenido a mi repositorio!
 
-Descripción
+Descripció:
 Este repositorio contiene una variedad de ejemplos de código en Java, diseñados para aprender y practicar diferentes conceptos de programación. Desde Programación Orientada a Objetos (POO) hasta operaciones CRUD en bases de datos MySQL, encontrarás ejemplos prácticos y soluciones demostrativas.
 
 Contenido
